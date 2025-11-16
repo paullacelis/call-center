@@ -2,7 +2,8 @@
 este projeto evolui atraves da analise de dados de call center buscando entender e melhorar os processos
 
 
-Análise Inicial de Dados Simulados de Operações de Call Center															
+Análise Inicial de Dados Simulados de Operações de Call Center	
+
 Objetivo															
 															
 Realizar uma análise inicial de presença e faltas dos atendentes, utilizando uma base de dados simulada. O propósito é identificar padrões, volume total de faltas e variações por período.															
