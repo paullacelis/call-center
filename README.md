@@ -1,6 +1,12 @@
 # call-center
 este projeto evolui atraves da analise de dados de call center buscando entender e melhorar os processos
+## 🔗 Acesso às Planilhas (Google Sheets)
 
+- **Planilha Original (Base Bruta)**
+  https://[link-da-planilha-original-aqui](https://docs.google.com/spreadsheets/d/1znUg73yJJIL3zHJegl7JoADwt8kEptaOEkJjT8QW31A/edit?usp=sharing)
+
+- **Planilha Tratamento / Análises**
+  https://[link-da-planilha-tratamento-aqui](https://docs.google.com/spreadsheets/d/18u6l4C6jGgJyKil_ZPqwEaGJhCDumBYWAHofpSaIP6I/edit?usp=sharing)
 
 Análise Inicial de Dados Simulados de Operações de Call Center	
 
